@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://girystra.github.io/sitemap.girystra.gz
+Sitemap: https://girystra.github.io/app/sitemap.girystra.gz
+Sitemap: https://girystra.github.io/assets/sitemap.girystra.gz
+Sitemap: https://girystra.github.io/css/sitemap.girystra.gz
+Sitemap: https://girystra.github.io/data/sitemap.girystra.gz
+Sitemap: https://girystra.github.io/includes/sitemap.girystra.gz
+Sitemap: https://girystra.github.io/item/sitemap.girystra.gz
+Sitemap: https://girystra.github.io/src/sitemap.girystra.gz
